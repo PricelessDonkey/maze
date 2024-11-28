@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/maze-app',
+  basePath: '/maze-app/',
   entryPoints: new Map([['', () => import('./main.server.mjs')]]),
 };
   
